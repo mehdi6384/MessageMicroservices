@@ -1,0 +1,12 @@
+G:\Sample\MessageMicroservices\MessageContracts\bin\Debug\net6.0\MessageContracts.deps.json
+G:\Sample\MessageMicroservices\MessageContracts\bin\Debug\net6.0\MessageContracts.dll
+G:\Sample\MessageMicroservices\MessageContracts\bin\Debug\net6.0\ref\MessageContracts.dll
+G:\Sample\MessageMicroservices\MessageContracts\bin\Debug\net6.0\MessageContracts.pdb
+G:\Sample\MessageMicroservices\MessageContracts\obj\Debug\net6.0\MessageContracts.csproj.AssemblyReference.cache
+G:\Sample\MessageMicroservices\MessageContracts\obj\Debug\net6.0\MessageContracts.GeneratedMSBuildEditorConfig.editorconfig
+G:\Sample\MessageMicroservices\MessageContracts\obj\Debug\net6.0\MessageContracts.AssemblyInfoInputs.cache
+G:\Sample\MessageMicroservices\MessageContracts\obj\Debug\net6.0\MessageContracts.AssemblyInfo.cs
+G:\Sample\MessageMicroservices\MessageContracts\obj\Debug\net6.0\MessageContracts.csproj.CoreCompileInputs.cache
+G:\Sample\MessageMicroservices\MessageContracts\obj\Debug\net6.0\MessageContracts.dll
+G:\Sample\MessageMicroservices\MessageContracts\obj\Debug\net6.0\ref\MessageContracts.dll
+G:\Sample\MessageMicroservices\MessageContracts\obj\Debug\net6.0\MessageContracts.pdb

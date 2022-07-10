@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "hR3aLXHQ1y3QrPWWQ/ZBF5f4PhESPjR+8XJqdk4Efj3V7ibcvVkR/XlZbhNn4B68YKmFPjpsE9ywPIayjS5Yeg==",
+  "success": true,
+  "projectFilePath": "G:\\Sample\\MessageMicroservices\\PaymentMicroservice\\PaymentMicroservice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mehdi63\\.nuget\\packages\\masstransit\\8.0.3\\masstransit.8.0.3.nupkg.sha512",
+    "C:\\Users\\mehdi63\\.nuget\\packages\\masstransit.abstractions\\8.0.3\\masstransit.abstractions.8.0.3.nupkg.sha512",
+    "C:\\Users\\mehdi63\\.nuget\\packages\\masstransit.rabbitmq\\8.0.3\\masstransit.rabbitmq.8.0.3.nupkg.sha512",
+    "C:\\Users\\mehdi63\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.18\\microsoft.extensions.configuration.abstractions.3.1.18.nupkg.sha512",
+    "C:\\Users\\mehdi63\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.18\\microsoft.extensions.dependencyinjection.abstractions.3.1.18.nupkg.sha512",
+    "C:\\Users\\mehdi63\\.nuget\\packages\\microsoft.extensions.diagnostics.healthchecks\\3.1.18\\microsoft.extensions.diagnostics.healthchecks.3.1.18.nupkg.sha512",
+    "C:\\Users\\mehdi63\\.nuget\\packages\\microsoft.extensions.diagnostics.healthchecks.abstractions\\3.1.18\\microsoft.extensions.diagnostics.healthchecks.abstractions.3.1.18.nupkg.sha512",
+    "C:\\Users\\mehdi63\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.18\\microsoft.extensions.fileproviders.abstractions.3.1.18.nupkg.sha512",
+    "C:\\Users\\mehdi63\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\3.1.18\\microsoft.extensions.hosting.abstractions.3.1.18.nupkg.sha512",
+    "C:\\Users\\mehdi63\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.18\\microsoft.extensions.logging.abstractions.3.1.18.nupkg.sha512",
+    "C:\\Users\\mehdi63\\.nuget\\packages\\microsoft.extensions.options\\3.1.18\\microsoft.extensions.options.3.1.18.nupkg.sha512",
+    "C:\\Users\\mehdi63\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.18\\microsoft.extensions.primitives.3.1.18.nupkg.sha512",
+    "C:\\Users\\mehdi63\\.nuget\\packages\\rabbitmq.client\\6.2.4\\rabbitmq.client.6.2.4.nupkg.sha512",
+    "C:\\Users\\mehdi63\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\mehdi63\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\mehdi63\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\mehdi63\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0\\system.reflection.emit.lightweight.4.7.0.nupkg.sha512",
+    "C:\\Users\\mehdi63\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\mehdi63\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\mehdi63\\.nuget\\packages\\system.text.json\\6.0.2\\system.text.json.6.0.2.nupkg.sha512",
+    "C:\\Users\\mehdi63\\.nuget\\packages\\system.threading.channels\\6.0.0\\system.threading.channels.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
